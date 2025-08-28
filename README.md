@@ -54,3 +54,5 @@ Attenzione: TilStat non è un progetto ufficiale del Politecnico di Torino.
 [INGEGNERIA DELLA PRODUZIONE INDUSTRIALE (L-9) - TORINO/NIZZA](/PRO1N1)
 
 [TECNOLOGIE PER L'INDUSTRIA MANIFATTURIERA (L-P03)](/TIM1T4)
+
+*Questo progetto è la versione aggiornata di TilStat di Massimo Rebuglio, che ringraziamo. La versione originale del sito è https://rebuglio.it/tilstat/*
